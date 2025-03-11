@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#1b1d28] text-white;
+  }
+}
+
+@layer utilities {
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .pixel-border {
+    box-shadow: 0 0 0 1px #87efac20;
+  }
+}
+
+/* Pixel-style font can be added via Google Fonts if desired */
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+.font-pixel {
+  font-family: 'VT323', monospace;
+} 
