@@ -35,7 +35,7 @@ You can deploy this template to Vercel
 
 ## Authors
 
-- joseph ([@nutlope](https://twitter.com/josephlopezh888))
+- joseph ([@josephlopezh888](https://twitter.com/josephlopezh888))
 
 ## Credits
 
