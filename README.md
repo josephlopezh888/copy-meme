@@ -31,20 +31,11 @@
 
 ## Deploy Your Own
 
-You can deploy this template to Vercel with the button below:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.fyi/qrGPT)
-
-Note that you'll need to:
-
-- Set up [Replicate](https://replicate.com)
-- Set up [Vercel KV](https://vercel.com/docs/storage/vercel-kv/quickstart)
-- Set up [Vercel Blob](https://vercel.com/docs/storage/vercel-blob/quickstart)
+You can deploy this template to Vercel 
 
 ## Authors
 
-- Hassan El Mghari ([@nutlope](https://twitter.com/nutlope))
-- Kevin Hou ([@kevinhou22](https://twitter.com/kevinhou22))
+- joseph ([@nutlope](https://twitter.com/josephlopezh888))
 
 ## Credits
 
